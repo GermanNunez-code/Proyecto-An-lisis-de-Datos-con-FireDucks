@@ -32,5 +32,6 @@ El conjunto de datos utilizado se basa en **transacciones de ventas en línea**,
 - **Identificación de Tendencias de Ventas en el Tiempo**
 - **Segmentación de Clientes y Análisis de Comportamiento**
 
+
 > [!NOTE]  
 > 📝 Créditos: Este proyecto fue inspirado por un video tutorial del canal de YouTube **Codebasics**

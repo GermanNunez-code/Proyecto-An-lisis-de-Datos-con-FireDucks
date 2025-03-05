@@ -1,7 +1,7 @@
 # Proyecto Análisis de Datos con FireDucks
 
 > [!IMPORTANT]  
-> 📌 Portfolio: Este proyecto forma parte de mi **Portafolio de Análisis de Datos & Ciencia de Datos**
+> 📌 Este proyecto forma parte de mi **Portafolio de Análisis de Datos & Ciencia de Datos**
 
 ## 📌 Descripción del Proyecto
 El Análisis Exploratorio de Datos (EDA) es un paso fundamental en el análisis de datos y la inteligencia artificial. En este proyecto, realizamos un análisis a gran escala de datos de ventas minoristas en línea**.
